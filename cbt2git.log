@@ -1,0 +1,11 @@
+2023-08-06 07:55:02.270550 - Initialized conversion of CBT844
+2023-08-06 07:55:02.368991 - Received CBT.V505.FILE844.PDS from FILE844.XMI 
+2023-08-06 07:55:02.371409 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE844.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:55:02.372688 - Found $$$DISCL.txt (text/plain) in CBT.V505.FILE844.PDS, moved to PDS/$$$DISCL
+2023-08-06 07:55:02.373862 - Found $$$INDEX.txt (text/plain) in CBT.V505.FILE844.PDS, moved to PDS/$$$INDEX
+2023-08-06 07:55:02.373870 - Found $TEXTDOC.bin containing application/octet-stream, moved to PDS/$TEXTDOC
+2023-08-06 07:55:02.375804 - Found @FILE844.txt (text/plain) in CBT.V505.FILE844.PDS, moved to PDS/@FILE844
+2023-08-06 07:55:02.376739 - Found ASSEMBLE.jcl (text/plain) in CBT.V505.FILE844.PDS, moved to PDS/ASSEMBLE
+2023-08-06 07:55:02.377728 - Found ENQWATCH.txt (text/plain) in CBT.V505.FILE844.PDS, moved to PDS/ENQWATCH
+2023-08-06 07:55:02.379850 - De-xmi-ed ENQWDOC to CBT844/docs/ENQWDOC.doc
+2023-08-06 07:55:02.381872 - De-xmi-ed ENQWPDF to CBT844/docs/ENQWPDF.pdf
