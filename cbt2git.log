@@ -1,0 +1,10 @@
+2025-04-13 23:22:26.634852 - Received CBT.V508.FILE844.PDS from FILE844.XMI 
+2025-04-13 23:22:26.635779 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:22:26.635861 - Found $$$DISCL.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/$$$DISCL
+2025-04-13 23:22:26.635929 - Found $$$INDEX.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/$$$INDEX
+2025-04-13 23:22:26.636032 - Found $TEXTDOC.bin (application/octet-stream) in CBT.V508.FILE844.PDS, moved to PDS/$TEXTDOC
+2025-04-13 23:22:26.636097 - Found @FILE844.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/@FILE844
+2025-04-13 23:22:26.636159 - Found ASSEMBLE.jcl (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/ASSEMBLE
+2025-04-13 23:22:26.636265 - Found ENQWATCH.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/ENQWATCH
+2025-04-13 23:22:26.636586 - Found ENQWDOC.doc (application/msword) in CBT.V508.FILE844.PDS, moved to docs/ENQWDOC.doc
+2025-04-13 23:22:26.636771 - Found ENQWPDF.pdf (application/pdf) in CBT.V508.FILE844.PDS, moved to docs/ENQWPDF.pdf
