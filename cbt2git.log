@@ -1,10 +1,10 @@
-2025-04-15 06:01:32.719350 - Received CBT.V508.FILE844.PDS from FILE844.XMI 
-2025-04-15 06:01:32.720648 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/$$$#DATE
-2025-04-15 06:01:32.720819 - Found $$$DISCL.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/$$$DISCL
-2025-04-15 06:01:32.720996 - Found $$$INDEX.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/$$$INDEX
-2025-04-15 06:01:32.721610 - Found $TEXTDOC.bin (application/octet-stream) in CBT.V508.FILE844.PDS, moved to PDS/$TEXTDOC
-2025-04-15 06:01:32.721663 - Found @FILE844.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/@FILE844
-2025-04-15 06:01:32.721808 - Found ASSEMBLE.jcl (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/ASSEMBLE
-2025-04-15 06:01:32.722412 - Found ENQWATCH.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/ENQWATCH
-2025-04-15 06:01:32.723726 - Found ENQWDOC.doc (application/msword) in CBT.V508.FILE844.PDS, moved to docs/ENQWDOC.doc
-2025-04-15 06:01:32.724610 - Found ENQWPDF.pdf (application/pdf) in CBT.V508.FILE844.PDS, moved to docs/ENQWPDF.pdf
+2025-04-16 00:43:16.244460 - Received CBT.V508.FILE844.PDS from FILE844.XMI 
+2025-04-16 00:43:16.245225 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/$$$#DATE
+2025-04-16 00:43:16.245279 - Found $$$DISCL.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/$$$DISCL
+2025-04-16 00:43:16.245321 - Found $$$INDEX.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/$$$INDEX
+2025-04-16 00:43:16.245396 - Found $TEXTDOC.bin (application/octet-stream) in CBT.V508.FILE844.PDS, moved to PDS/$TEXTDOC
+2025-04-16 00:43:16.245436 - Found @FILE844.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/@FILE844
+2025-04-16 00:43:16.245474 - Found ASSEMBLE.jcl (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/ASSEMBLE
+2025-04-16 00:43:16.245540 - Found ENQWATCH.txt (text/plain) in CBT.V508.FILE844.PDS, moved to PDS/ENQWATCH
+2025-04-16 00:43:16.245757 - Found ENQWDOC.doc (application/msword) in CBT.V508.FILE844.PDS, moved to docs/ENQWDOC.doc
+2025-04-16 00:43:16.245880 - Found ENQWPDF.pdf (application/pdf) in CBT.V508.FILE844.PDS, moved to docs/ENQWPDF.pdf
